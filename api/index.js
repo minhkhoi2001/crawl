@@ -53,7 +53,7 @@ app.post("/crawl", async (req, res) => {
 
   try {
     const browser = await puppeteer.launch({
-      executablePath: "C:/Program Files/Google/Chrome/Application/chrome.exe",
+      args: ['--no-sandbox', '--disable-setuid-sandbox'],
     });
     const page = await browser.newPage();
     await page.goto(url);
@@ -98,6 +98,6 @@ app.post("/crawl", async (req, res) => {
   }
 });
 
-const PORT = process.env.PORT || 3001;
-app.listen(PORT, () => console.log(`Server started on port ${PORT}`));
+//const PORT = process.env.PORT || 3001;
+//app.listen(PORT, () => console.log(`Server started on port ${PORT}`));
 module.exports = app;
