@@ -18,8 +18,8 @@ const readTextFile = (filename) => {
   return fs.readFileSync(filename, "utf8");
 };
 
-const headerContent = readTextFile("./header.txt");
-const footerContent = readTextFile("./footer.txt");
+const headerContent = readTextFile("/header.txt");
+const footerContent = readTextFile("/footer.txt");
 
 const char2entity = {
   "'": "&#39;",
