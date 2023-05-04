@@ -1,0 +1,21 @@
+  <entry>
+    <id>tag:blogger.com,1999:blog-1915332153780296371.post-3567890683225363488</id>
+    <published>2021-09-29T00:14:00.006-07:00</published>
+    <updated>2021-10-01T04:16:57.186-07:00</updated>
+    <category scheme='http://www.blogger.com/atom/ns#' term='san-pham' />
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#post' />
+    <category scheme='http://www.blogger.com/atom/ns#' term='trai-cay' />
+    <title type='text'>Đào đỏ Mỹ</title>
+    <content type='html'>&lt;p&gt;Đào (danh pháp khoa học: Prunus persica) là một loài cây được trồng để lấy quả hay hoa. Nó là một loài cây sớm rụng lá, thân gỗ nhỏ, có thể cao tới 5–10 m. Lá của nó có hình mũi mác, dài 7–15 cm và rộng 2–3 cm. Hoa nở vào đầu mùa xuân, trước khi ra lá; hoa đơn hay có đôi, đường kính 2,5–3 cm, màu hồng với 5 cánh hoa. Quả đào cùng với quả của anh đào, mận, mơ là các loại quả hạch.Quả của nó có một hạt giống to được bao bọc trong một lớp vỏ gỗ cứng (gọi là "hột"), cùi thịt màu vàng hay ánh trắng, có mùi vị thơm ngon và lớp vỏ có lông tơ mềm như nhung.&lt;/p&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;a href="https://1.bp.blogspot.com/-3W1kIDutA0o/YVQSGV5SRwI/AAAAAAAAGr0/5DEpsP5RM6orxoS1Q2U6famjDOM5_88UgCLcBGAsYHQ/s500/sp2.webp" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"&gt;&lt;img alt="d" border="0" data-original-height="500" data-original-width="500" src="https://1.bp.blogspot.com/-3W1kIDutA0o/YVQSGV5SRwI/AAAAAAAAGr0/5DEpsP5RM6orxoS1Q2U6famjDOM5_88UgCLcBGAsYHQ/s16000/sp2.webp" title="d" /&gt;&lt;/a&gt;&lt;/div&gt;&lt;br /&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Tên gọi khoa học persica có lẽ có từ niềm tin ban đầu của người châu Âu cho rằng đào có nguồn gốc ở khu vực Ba Tư (Persia), nay là Iran. Sự đồng thuận lớn trong giới các nhà thực vật học ngày nay đã cho rằng nó có nguồn gốc từ Trung Quốc và được đưa vào Ba Tư cũng như khu vực Địa Trung Hải theo con đường tơ lụa vào khoảng thời gian ban đầu của lịch sử nhân loại, có lẽ vào khoảng thiên niên kỷ 2 TCN (Huxley và những người khác, 1992).&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Các giống đào trồng được chia thành hai loại là "hột rời" và "hột dính", phụ thuộc vào việc hột có dính với cùi thịt hay không; cả hai loại này đều có cùi thịt trắng hay vàng. Quả đào với cùi thịt trắng thông thường có vị rất ngọt và ít vị chua, trong khi loại có cùi thịt màu vàng thông thường có vị chua kèm theo vị ngọt, mặc dù điều này cũng có sự dao động lớn. Cả hai màu thông thường đều có các vệt đỏ trong lớp thịt của chúng. Loại đào cùi trắng, ít chua là phổ biến nhất tại Tru&lt;/p&gt;</content>
+    <link rel='enclosure' type='40000' href='http://giaban.com' length='0' />
+    <link rel='enclosure' type='55000' href='http://giacu.com' length='0' />
+    <link rel='enclosure' type='image/png' href='https://lh3.googleusercontent.com/-YfP15K3Fwak/YVQSGaWB3QI/AAAAAAAAGrs/mf4LFPwb_ucZsNcKLbtUVnwfjXcowCRqACLcBGAsYHQ/s16000/dao1.png' length='0' />
+    <link rel='enclosure' type='image/png' href='https://lh3.googleusercontent.com/-sJ0PgFT3-0I/YVQSGY2g_wI/AAAAAAAAGrw/hfZEHVMJr3cDTO7lhY9ogc4c2clijFzlgCLcBGAsYHQ/s16000/sp2-2.png' length='0' />
+    <author>
+      <name>Blogger</name>
+      <email>noreply@blogger.com</email>
+      <gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//4.bp.blogspot.com/-tSozALL3D04/YRsu-CXaPgI/AAAAAAAAGH8/WoROPnh0LE85oDgzjWhOClriKDGGFn6YgCK4BGAYYCw/s32/unnamed.png' />
+    </author>
+    <media:thumbnail xmlns:media='http://search.yahoo.com/mrss/' url='https://1.bp.blogspot.com/-3W1kIDutA0o/YVQSGV5SRwI/AAAAAAAAGr0/5DEpsP5RM6orxoS1Q2U6famjDOM5_88UgCLcBGAsYHQ/s72-c/sp2.webp' height='72' width='72' />
+    <thr:total>0</thr:total>
+  </entry>
